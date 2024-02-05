@@ -1,0 +1,32 @@
+/* navbar style */
+.navbar {
+  margin-top: -16px;
+  width: 98%;
+  height: 60px;
+  background: #457ed9;
+  color: black;
+  padding: 10px 1%;
+  position: sticky;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+
+/* navbar heading */
+.navbar span {
+  font-size: 2.2rem;
+  font-weight: bold;
+  font-family: cursive;
+  letter-spacing: 4px;
+  margin-top: auto;
+  font-weight: 800;
+  margin-left: 20px;
+}
+
+/* navbar cover image */
+.coverImage {
+  height: 45px;
+  width: 45px;
+  margin-right: 5px;
+  margin-top: 15px;
+}
